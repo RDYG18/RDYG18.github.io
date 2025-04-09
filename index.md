@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="/assets/img/headshot_circle.png" alt="Foto de perfil" width="180" style="border-radius: 50%;">
+</p>
+
 <div align="justify">
 # 👋🏻 ¡Hi! I’m Roberto Damian Yáñez González  
 
