@@ -1,4 +1,4 @@
-<div align="justify">
+
 
 # 👋🏻 ¡Hi! I’m Roberto Damian Yáñez González  
 
@@ -7,7 +7,7 @@ I apply Data Science to real-world challenges across sectors like hospitality, t
 
 📍 Interested in e-commerce, finance, and sustainability  
 
-</div>
+
 
 
 ---
