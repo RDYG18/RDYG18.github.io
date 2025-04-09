@@ -1,14 +1,14 @@
----
-layout: default
-title: Welcome!
----
+<div align="justify">
 
-# 👋 ¡Hola! Soy Roberto Yáñez González  
+# 👋🏻 ¡Hi! I’m Roberto Damian Yáñez González  
 
-Data Scientist enfocado en resolver problemas reales mediante el análisis de datos, machine learning y visualización efectiva. Tengo experiencia en proyectos que van desde la predicción de precios y cancelaciones hasta segmentación de clientes y análisis energético.  
+I'm a Sustainable Development Engineer transitioning into Data Science. I'm passionate about solving real world problems through data analysis, machine learning, and visual storytelling.  
+I apply Data Science to real-world challenges across sectors like hospitality, tech, energy, migration, and e-commerce. My projects include price prediction, cancellation analysis, user segmentation, A/B testing, predictive maintenance, and classification models. I leverage machine learning, statistical analysis, and data visualization to deliver impactful solutions.
 
-📍 Interesado en e-commerce, finanzas y sostenibilidad.  
-🎓 Actualmente cursando el Post Graduate Program in Data Science and Business Analytics (University of Texas at Austin).  
+📍 Interested in e-commerce, finance, and sustainability  
+
+</div>
+
 
 ---
 
