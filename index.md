@@ -1,4 +1,4 @@
-<p align="left">
+<p align="center">
   <img src="assets/img/PARA_EL_PERFIL.JPG" alt="Foto de perfil" width="250" style="border-radius: 0%;">
 </p>
 
@@ -9,20 +9,23 @@ I'm a Sustainable Development Engineer transitioning into Data Science. I'm pass
 I apply Data Science to real-world challenges across sectors like hospitality, tech, energy, migration, and e-commerce. My projects include price prediction, cancellation analysis, user segmentation, A/B testing, predictive maintenance, and classification models. I leverage machine learning, statistical analysis, and data visualization to deliver impactful solutions.
 
 
-📍 Interested in e-commerce, finance, and sustainability  
+
 </div>
 
+📍 Interested in e-commerce, finance, and sustainability 
 
 
 ---
 ## 🛠️ Habilidades Técnicas  
 
-- Python (pandas, numpy, matplotlib, seaborn, scikit-learn, statsmodels)  
-- SQL  
-- Machine Learning y modelos supervisados  
-- Visualización de datos  
-- Análisis estadístico  
-- Resolución de problemas de negocio
+- Languages & Libraries: Python (pandas, numpy, matplotlib, seaborn, scikit-learn, statsmodels)  
+- Predictive Modeling: Linear regression, logistic regression, decision trees, binary classification, cross-validation, hyperparameter tuning
+- Machine Learning: Supervised models (classification and regression), Unsupervised learning(), pre/post-pruning, performance metrics (precision, recall, F1-score, ROC-AUC)
+- Data Wrangling: Data cleaning, transformation, and outlier handling
+- Data Visualization: Exploratory and explanatory charts for business insights (matplotlib, seaborn)  
+- Statistical Analysis: Hypothesis testing, correlation analysis, multicollinearity (VIF), feature selection (backward elimination)
+- PostgreSQL: Basic to intermediate level
+- Business Problem Solving
   
   ---
 ## 📂 Projects
