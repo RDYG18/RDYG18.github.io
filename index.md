@@ -18,13 +18,14 @@ I apply Data Science to real-world challenges across sectors like hospitality, t
 ---
 ## 🛠️ Habilidades Técnicas  
 
-- Languages & Libraries: Python (pandas, numpy, matplotlib, seaborn, scikit-learn, statsmodels)  
-- Predictive Modeling: Linear regression, logistic regression, decision trees, binary classification, cross-validation, hyperparameter tuning
-- Machine Learning: Supervised models (classification and regression), Unsupervised learning(), pre/post-pruning, performance metrics (precision, recall, F1-score, ROC-AUC)
-- Data Wrangling: Data cleaning, transformation, and outlier handling
-- Data Visualization: Exploratory and explanatory charts for business insights (matplotlib, seaborn)  
-- Statistical Analysis: Hypothesis testing, correlation analysis, multicollinearity (VIF), feature selection (backward elimination)
+- Languages & Libraries: Python (pandas, numpy, matplotlib, seaborn, scikit-learn, statsmodels)
 - PostgreSQL: Basic to intermediate level
+- Excel : intermediate
+- Data Preprocessing: Data cleaning, transformation, and outlier handling
+- Data Visualization: Exploratory and explanatory charts for business insights (matplotlib, seaborn)
+-Statistical & Predictive Modeling: Hypothesis testing, correlation, multicollinearity (VIF), feature selection, regression (linear/logistic), classification, 
+ decision trees, A/B testing, cross-validation, hyperparameter tuning
+- Machine Learning:Supervised & unsupervised models, pruning, performance metrics (precision, recall, F1-score, ROC-AUC)
 - Business Problem Solving
   
   ---
