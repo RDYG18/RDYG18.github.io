@@ -44,9 +44,8 @@ I apply Data Science to real world challenges across sectors like hospitality, t
 - Built a linear regression model to estimate the future resale value of electronic devices  
 - Identified key price-driving features to support dynamic pricing and inventory management  
 - Evaluated model performance using R² and residual analysis  
-- **Tools**: Python, pandas, matplotlib, scikit-learn  
-- 🔗 [https://github.com/RDYG18/-Regression-Model-to-Improve-Resale-Value-Strategy]  
-
+- **Tools**: Python, pandas, matplotlib, scikit-learn
+- 🔗(https://github.com/RDYG18/-Regression-Model-to-Improve-Resale-Value-Strategy)
 
 ---
 
