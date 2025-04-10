@@ -3,7 +3,7 @@
 </p>
 
 <div align="justify">
-# 👋🏻 ¡Hi! I’m Roberto Damian Yáñez González  
+👋🏻 ¡Hi! I’m Roberto Damian Yáñez González  
 
 I'm a Sustainable Development Engineer transitioning into Data Science. I'm passionate about solving real world problems through data analysis, machine learning, and visual storytelling.  
 I apply Data Science to real-world challenges across sectors like hospitality, tech, energy, migration, and e-commerce. My projects include price prediction, cancellation analysis, user segmentation, A/B testing, predictive maintenance, and classification models. I leverage machine learning, statistical analysis, and data visualization to deliver impactful solutions.
@@ -18,41 +18,58 @@ I apply Data Science to real-world challenges across sectors like hospitality, t
 ---
 ## 🛠️ Habilidades Técnicas  
 
-- Languages & Libraries: Python (pandas, numpy, matplotlib, seaborn, scikit-learn, statsmodels)
+- Python (pandas, numpy, matplotlib, seaborn, scikit-learn, statsmodels)
 - PostgreSQL: Basic to intermediate level
 - Excel : intermediate
 - Data Preprocessing: Data cleaning, transformation, and outlier handling
-- Data Visualization: Exploratory and explanatory charts for business insights (matplotlib, seaborn)
--Statistical & Predictive Modeling: Hypothesis testing, correlation, multicollinearity (VIF), feature selection, regression (linear/logistic), classification, 
- decision trees, A/B testing, cross-validation, hyperparameter tuning
+- Data Visualization: Exploratory and explanatory charts for business insights
+-Statistical & Predictive Modeling: Hypothesis testing, regression (linear/logistic), classification, decision trees, A/B testing
 - Machine Learning:Supervised & unsupervised models, pruning, performance metrics (precision, recall, F1-score, ROC-AUC)
 - Business Problem Solving
   
   ---
 ## 📂 Projects
+---
+### 📰 A/B Testing for Landing Page Performance Optimization
 
-### 🔹 Predicción de Cancelaciones en un Hotel  
-**Objetivo**: Predecir cancelaciones y proponer estrategias para reducirlas.  
-**Tecnologías**: Python, scikit-learn, regresión logística, árboles de decisión  
-[🔗 Ver en GitHub](https://github.com/RDYG18)
+- Conducted an A/B testing experiment to evaluate the impact of a redesigned landing page on user engagement and conversion rates  
+- Randomly split 100 users into two groups: control (old landing page) and treatment (new landing page), collecting behavior metrics from both  
+- Performed statistical analysis (at 5% significance level) to answer key questions defined by the E-news design team
+- **Tools**: Python, pandas, scipy.stats, A/B Testing, hypothesis testing  
+- 🔗 [View Project on GitHub](https://github.com/RDYG18)
+
+---
+### 📱 Device Resale Price Prediction
+
+- Built a linear regression model to estimate the future resale value of electronic devices  
+- Identified key price-driving features to support dynamic pricing and inventory management  
+- Evaluated model performance using R² and residual analysis  
+- **Tools**: Python, pandas, matplotlib, scikit-learn  
+- 🔗 [View Project on GitHub](https://github.com/RDYG18)
+
 
 ---
 
-### 🔹 Segmentación de Clientes para una Empresa Automotriz  
-**Objetivo**: Agrupar nuevos clientes en segmentos estratégicos para expansión de mercado.  
-**Tecnologías**: clustering, clasificación, visualización  
-[🔗 Ver en GitHub](https://github.com/RDYG18)
+### 🏨 Hotel Booking Cancellation Prediction  
+
+- Developed a model to predict hotel cancellations using logistic regression and decision trees  
+- Applied outlier detection, variable selection (VIF, backward elimination), and threshold optimization  
+- Achieved improved accuracy and business insights for reducing revenue loss  
+- **Tools**: Python, pandas, scikit-learn, matplotlib  
+- 🔗 [View Project on GitHub](https://github.com/RDYG18)
 
 ---
 
-### 🔹 Predicción de Precios de Reventa de Dispositivos  
-**Objetivo**: Estimar el valor futuro de dispositivos para optimizar inventario y fijación de precios.  
-**Tecnologías**: regresión lineal, matplotlib, pandas  
-[🔗 Ver en GitHub](https://github.com/RDYG18)
+### ⚙️ Predictive Maintenance for Wind Turbines
 
----
+- Developed classification models to predict generator failures in wind turbines using environmental and sensor-based component data  
+- Utilized a dataset with 40 predictors, 20,000 training observations, and 5,000 test observations shared in a ciphered format due to confidentiality  
+- Conducted model tuning and evaluation to find the best-performing classifier to enable preventive actions before failures occur  
+- Focused on minimizing false negatives to reduce high replacement costs while maintaining balance with repair and inspection actions cost 
+- **Tools**: Python, pandas, scikit-learn, classification models, hyperparameter tuning, confusion matrix  
+- 🔗 [View Project on GitHub](https://github.com/RDYG18)
 
-## 📫 Contacto  
+## 📫 Contact  
 
 - GitHub: [RDYG18](https://github.com/RDYG18)  
 - LinkedIn: [linkedin.com/in/roberto-yanez](https://www.linkedin.com/in/roberto-yanez)  
