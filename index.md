@@ -49,8 +49,6 @@ I apply Data Science to real world challenges across sectors like hospitality, t
   <li><strong>🔗 <a href="https://github.com/RDYG18/-Regression-Model-to-Improve-Resale-Value-Strategy/blob/main/README.md" target="_blank" rel="noopener noreferrer">Device Resale Price Prediction</a></strong></li>
 </ul>
 
-"https://github.com/RDYG18/-Regression-Model-to-Improve-Resale-Value-Strategy/blob/main/README.md"
-"https://github.com/RDYG18/-Regression-Model-to-Improve-Resale-Value-Strategy"
 ---
 
 ### 🏨 Hotel Booking Cancellation Prediction  
