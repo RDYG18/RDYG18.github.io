@@ -73,7 +73,7 @@ I apply Data Science to real world challenges across sectors like hospitality, t
 ## 📫 Contact  
 
 - GitHub: [RDYG18](https://github.com/RDYG18)  
-- LinkedIn: [Roberto Damián Yañez González](https://www.linkedin.com/in/roberto-damian-yañez-gonzalez-422668334)
+- LinkedIn: <a href="https://www.linkedin.com/in/roberto-damian-yañez-gonzalez-422668334" target="_blank">Roberto Damián Yañez González</a>
 - Email: roberto.yanezg18@gmail.com
 
 ---
