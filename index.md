@@ -38,7 +38,7 @@ I apply Data Science to real world challenges across sectors like hospitality, t
 - **Tools**: Python, pandas, scipy.stats, A/B Testing, hypothesis testing
 <ul>
   <li>
-    <strong>🔗 <a href="https://github.com/RDYG18/A-B-testing-landing-page-enews-express/blob/main/README.md" target="_blank">View Project on GitHub</a></strong>
+    <strong>🔗 <a href="https://github.com/RDYG18/A-B-testing-landing-page-enews-express/blob/main/README.md" target="_blank"> A/B Testing for Landing Page</a></strong>
   </li>
 </ul>
 
