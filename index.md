@@ -35,8 +35,12 @@ I apply Data Science to real world challenges across sectors like hospitality, t
 - Conducted an A/B testing experiment to evaluate the impact of a redesigned landing page on user engagement and conversion rates  
 - Randomly split 100 users into two groups: control (old landing page) and treatment (new landing page), collecting behavior metrics from both  
 - Performed statistical analysis (at 5% significance level) to answer key questions defined by the E-news design team
-- **Tools**: Python, pandas, scipy.stats, A/B Testing, hypothesis testing  
-- 🔗 [View Project on GitHub](https://github.com/RDYG18)
+- **Tools**: Python, pandas, scipy.stats, A/B Testing, hypothesis testing
+<ul>
+  <li>
+    <strong>🔗 <a href="https://github.com/RDYG18/A-B-testing-landing-page-enews-express/blob/main/README.md" target="_blank">View Project on GitHub</a></strong>
+  </li>
+</ul>
 
 ---
 ### 📱 Device Resale Price Prediction
