@@ -3,16 +3,15 @@
 </p>
 
 <div align="justify">
-👋🏻 ¡Hi! I’m Roberto Damian Yáñez González  
+¡Hi! I’m Roberto Damian Yáñez González  
 
-I'm a Sustainable Development Engineer transitioning into Data Science. I'm passionate about solving real world problems through data analysis, machine learning, and visual storytelling.  
-I apply Data Science to real world challenges across sectors like hospitality, tech, energy, migration, and e-commerce. My projects include price prediction, cancellation analysis, user segmentation, A/B testing, predictive maintenance, and classification models. I leverage machine learning, statistical analysis, and data visualization to deliver impactful solutions.
+I'm a Sustainable Development Engineer transitioning into Data Science. I'm passionate about solving real world problems through data analysis, machine learning, and visual storytelling. I apply Data Science to real world challenges across sectors like hospitality, tech, energy, migration, and e-commerce. My projects include price prediction, cancellation analysis, user segmentation, A/B testing, predictive maintenance, and classification models. I leverage machine learning, statistical analysis, and data visualization to deliver impactful solutions.
 
 
 
 </div>
 
-📍 Interested in e-commerce, finance, and sustainability 
+- Interested in e-commerce, finance, and sustainability 
 
 
 ---
