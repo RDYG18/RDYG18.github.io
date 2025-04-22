@@ -49,7 +49,7 @@ I'm a Sustainable Development Engineer transitioning into Data Science. I'm pass
 - Evaluated model performance using R² and residual analysis  
 - **Tools**: Python, pandas, matplotlib, scikit-learn
 <ul>
-  <li><strong>🔗 <a href="https://github.com/RDYG18/-Regression-Model-to-Improve-Resale-Value-Strategy/blob/main/README.md" target="_blank" rel="noopener noreferrer">Device Resale Price Prediction</a></strong></li>
+  <li><strong> <a href="https://github.com/RDYG18/-Regression-Model-to-Improve-Resale-Value-Strategy/blob/main/README.md" target="_blank" rel="noopener noreferrer">Device Resale Price Prediction</a></strong></li>
 </ul>
 
 ---
@@ -71,7 +71,18 @@ I'm a Sustainable Development Engineer transitioning into Data Science. I'm pass
 - Conducted model tuning and evaluation to find the best-performing classifier to enable preventive actions before failures occur  
 - Focused on minimizing false negatives to reduce high replacement costs while maintaining balance with repair and inspection actions cost 
 - **Tools**: Python, pandas, scikit-learn, classification models, hyperparameter tuning, confusion matrix  
-- 🔗 [View Project on GitHub](https://github.com/RDYG18)
+<ul>
+  <li>
+    <strong>
+      <a href="https://github.com/RDYG18/Rene-wind-predictive-maintenance/blob/main/README.md#business-recommendations" target="_blank" rel="noopener noreferrer">
+        View project
+      </a>
+    </strong>
+  </li>
+</ul>
+
+
+
 
 ## 📫 Contact  
 
