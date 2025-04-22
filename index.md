@@ -37,7 +37,7 @@ I'm a Sustainable Development Engineer transitioning into Data Science. I'm pass
 - **Tools**: Python, pandas, scipy.stats, A/B Testing, hypothesis testing
 <ul>
   <li>
-    <strong>🔗 <a href="https://github.com/RDYG18/A-B-testing-landing-page-enews-express/blob/main/README.md" target="_blank"> A/B Testing for Landing Page</a></strong>
+    <strong> <a href="https://github.com/RDYG18/A-B-testing-landing-page-enews-express/blob/main/README.md" target="_blank"> A/B Testing for Landing Page</a></strong>
   </li>
 </ul>
 
@@ -83,12 +83,14 @@ I'm a Sustainable Development Engineer transitioning into Data Science. I'm pass
 <ul>
   <li>
     <strong>
-      <a href="https://github.com/RDYG18/Rene-wind-predictive-maintenance/blob/main/README.md#business-recommendations" target="_blank" rel="noopener noreferrer">
+      <a href="https://github.com/RDYG18/A-B-testing-landing-page-enews-express/blob/main/README.md" target="_blank" rel="noopener noreferrer">
         View project
       </a>
     </strong>
   </li>
 </ul>
+
+
 
 
 
