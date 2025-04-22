@@ -79,16 +79,17 @@ I'm a Sustainable Development Engineer transitioning into Data Science. I'm pass
 - Utilized a dataset with 40 predictors, 20,000 training observations, and 5,000 test observations shared in a ciphered format due to confidentiality  
 - Conducted model tuning and evaluation to find the best-performing classifier to enable preventive actions before failures occur  
 - Focused on minimizing false negatives to reduce high replacement costs while maintaining balance with repair and inspection actions cost 
-- **Tools**: Python, pandas, scikit-learn, classification models, hyperparameter tuning, confusion matrix  
-<ul>
+- **Tools**: Python, pandas, scikit-learn, classification models, hyperparameter tuning, confusion matrix
+- <ul>
   <li>
     <strong>
-      <a href="https://github.com/RDYG18/A-B-testing-landing-page-enews-express/blob/main/README.md" target="_blank" rel="noopener noreferrer">
+      <a href="https://github.com/RDYG18/Rene-wind-predictive-maintenance/blob/main/README.md" target="_blank" rel="noopener noreferrer">
         View project
       </a>
     </strong>
   </li>
 </ul>
+
 
 
 
