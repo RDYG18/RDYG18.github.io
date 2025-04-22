@@ -66,7 +66,7 @@ I'm a Sustainable Development Engineer transitioning into Data Science. I'm pass
       View project
     </a>
   </strong>
-</p>
+
 
 
 
@@ -80,15 +80,12 @@ I'm a Sustainable Development Engineer transitioning into Data Science. I'm pass
 - Conducted model tuning and evaluation to find the best-performing classifier to enable preventive actions before failures occur  
 - Focused on minimizing false negatives to reduce high replacement costs while maintaining balance with repair and inspection actions cost 
 - **Tools**: Python, pandas, scikit-learn, classification models, hyperparameter tuning, confusion matrix
-- <ul>
-  <li>
-    <strong>
-      <a href="https://github.com/RDYG18/Rene-wind-predictive-maintenance/blob/main/README.md" target="_blank" rel="noopener noreferrer">
-        View project
-      </a>
-    </strong>
-  </li>
-</ul>
+- <strong>
+  <a href="https://github.com/RDYG18/Rene-wind-predictive-maintenance/blob/main/README.md" target="_blank" rel="noopener noreferrer">
+    View project
+  </a>
+</strong>
+
 
 
 
