@@ -54,12 +54,12 @@ I'm a Sustainable Development Engineer transitioning into Data Science. I'm pass
 
 ---
 
-### 🏨 Hotel Booking Cancellation Prediction  
+### Hotel Booking Cancellation Prediction  
 
 - Developed a model to predict hotel cancellations using logistic regression and decision trees  
 - Applied outlier detection, variable selection (VIF, backward elimination), and threshold optimization  
 - Achieved improved accuracy and business insights for reducing revenue loss  
-- **Tools**: Python, pandas, scikit-learn, matplotlib
+- **Tools**:  Python, pandas, scikit-learn, statsmodels, matplotlib, seaborn
 - <p>
   <strong>
     <a href="https://github.com/RDYG18/INN-Hotels-Predicting-Booking-Cancellations-Using-Machine-Learning/blob/main/README.md" target="_blank" rel="noopener noreferrer">
