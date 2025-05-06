@@ -73,7 +73,7 @@ I'm a Sustainable Development Engineer transitioning into Data Science. I'm pass
 
 ---
 
-### ⚙️ Predictive Maintenance for Wind Turbines
+### Predictive Maintenance for Wind Turbines
 
 - Developed classification models to predict generator failures in wind turbines using environmental and sensor-based component data  
 - Utilized a dataset with 40 predictors, 20,000 training observations, and 5,000 test observations shared in a ciphered format due to confidentiality  
