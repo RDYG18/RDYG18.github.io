@@ -15,7 +15,7 @@ I'm a Sustainable Development Engineer transitioning into Data Science. I'm pass
 
 
 ---
-## 🛠️ Habilidades Técnicas  
+## Technical Skills
 
 - Python (pandas, numpy, matplotlib, seaborn, scikit-learn, statsmodels)
 - PostgreSQL: Basic to intermediate level
@@ -27,9 +27,9 @@ I'm a Sustainable Development Engineer transitioning into Data Science. I'm pass
 - Business Problem Solving
   
   ---
-## 📂 Projects
+## Projects
 ---
-### 📰 A/B Testing for Landing Page Performance Optimization
+### A/B Testing for Landing Page Performance Optimization
 
 - Conducted an A/B testing experiment to evaluate the impact of a redesigned landing page on user engagement and conversion rates  
 - Randomly split 100 users into two groups: control (old landing page) and treatment (new landing page), collecting behavior metrics from both  
@@ -42,7 +42,7 @@ I'm a Sustainable Development Engineer transitioning into Data Science. I'm pass
 </ul>
 
 ---
-### 📱 Device Resale Price Prediction
+### Device Resale Price Prediction
 
 - Built a linear regression model to estimate the future resale value of electronic devices  
 - Identified key price-driving features to support dynamic pricing and inventory management  
@@ -94,7 +94,7 @@ I'm a Sustainable Development Engineer transitioning into Data Science. I'm pass
 
 
 
-## 📫 Contact  
+## Contact  
 
 - GitHub: <a href="https://github.com/RDYG18" target="_blank">RDYG18</a>
 - LinkedIn: <a href="https://www.linkedin.com/in/roberto-damian-yañez-gonzalez-422668334" target="_blank">Roberto Damián Yañez González</a>
