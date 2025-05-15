@@ -97,7 +97,7 @@ I'm a Sustainable Development Engineer transitioning into Data Science. I'm pass
 ## Contact  
 
 - GitHub: <a href="https://github.com/RDYG18" target="_blank">RDYG18</a>
-- LinkedIn: <a href="https://www.linkedin.com/in/roberto-damian-yañez-gonzalez-422668334" target="_blank">Roberto Damián Yañez González</a>
+- LinkedIn: <a href="www.linkedin.com/in/roberto-damián-yg" target="_blank">Roberto Damián Yañez González</a>
 - Email: roberto.yanezg18@gmail.com
 
 ---
