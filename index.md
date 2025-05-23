@@ -5,7 +5,7 @@
 <div align="justify">
 ¡Hi! I’m Roberto Damian Yáñez González  
 
-I'm a Sustainable Development Engineer pivoting into Data Science. I’m passionate about using machine learning, statistical analysis, and data visualization to turn complex datasets into actionable insights. I apply Data Science to real world challenges across sectors like hospitality, tech, energy, migration, and e-commerce. My projects include price prediction, cancellation analysis, user segmentation, A/B testing, predictive maintenance, and classification models. I’m excited to keep learning, building, and collaborating with others who are using data to drive meaningful change.
+I'm a Sustainable Development Engineer pivoting into Data Science. I’m passionate about using machine learning, statistical analysis, and data visualization to turn complex datasets into actionable insights. My projects include price prediction, cancellation analysis, user segmentation, A/B testing, predictive maintenance, and classification models. I’m excited to keep learning, building, and collaborating with others who are using data to drive meaningful change.
 
 </div>
 
