@@ -5,20 +5,16 @@
 <div align="justify">
 ¡Hi! I’m Roberto Damian Yáñez González  
 
-I'm a Sustainable Development Engineer transitioning into Data Science. I'm passionate about solving real world problems through data analysis, machine learning, and visual storytelling. I apply Data Science to real world challenges across sectors like hospitality, tech, energy, migration, and e-commerce. My projects include price prediction, cancellation analysis, user segmentation, A/B testing, predictive maintenance, and classification models. I leverage machine learning, statistical analysis, and data visualization to deliver impactful solutions.
-
-
+I'm a Sustainable Development Engineer pivoting into Data Science. I’m passionate about using machine learning, statistical analysis, and data visualization to turn complex datasets into actionable insights. I apply Data Science to real world challenges across sectors like hospitality, tech, energy, migration, and e-commerce. My projects include price prediction, cancellation analysis, user segmentation, A/B testing, predictive maintenance, and classification models. I’m excited to keep learning, building, and collaborating with others who are using data to drive meaningful change.
 
 </div>
-
-- Interested in e-commerce, finance, and sustainability 
 
 
 ---
 ## Technical Skills
 
 - Python (pandas, numpy, matplotlib, seaborn, scikit-learn, statsmodels)
-- PostgreSQL: Basic to intermediate level
+- PostgreSQL: intermediate 
 - Excel : intermediate
 - Data Preprocessing: Data cleaning, transformation, and outlier handling
 - Data Visualization: Exploratory and explanatory charts for business insights
@@ -37,7 +33,7 @@ I'm a Sustainable Development Engineer transitioning into Data Science. I'm pass
 - **Tools**: Python, pandas, scipy.stats, A/B Testing, hypothesis testing
 <ul>
   <li>
-    <strong> <a href="https://github.com/RDYG18/A-B-testing-landing-page-enews-express/blob/main/README.md" target="_blank"> A/B Testing for Landing Page</a></strong>
+    <strong> <a href="https://github.com/RDYG18/A-B-testing-landing-page-enews-express/blob/main/README.md" target="_blank"> View project</a></strong>
   </li>
 </ul>
 
@@ -49,7 +45,7 @@ I'm a Sustainable Development Engineer transitioning into Data Science. I'm pass
 - Evaluated model performance using R² and residual analysis  
 - **Tools**: Python, pandas, matplotlib, scikit-learn
 <ul>
-  <li><strong> <a href="https://github.com/RDYG18/-Regression-Model-to-Improve-Resale-Value-Strategy/blob/main/README.md" target="_blank" rel="noopener noreferrer">Device Resale Price Prediction</a></strong></li>
+  <li><strong> <a href="https://github.com/RDYG18/ReCell-Dynamic-Pricing-for-Used-Devices/tree/main" target="_blank" rel="noopener noreferrer"> View project</a></strong></li>
 </ul>
 
 ---
