@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="assets/img/PARA_EL_PERFIL.JPG" alt="Foto de perfil" width="250" style="border-radius: 0%;">
+  <img src="https://github.com/user-attachments/assets/d87bdd76-16aa-469f-b472-d25aca39a8e2" alt="foto ciencias" width="350" style="border-radius: 0%;">
 </p>
 
 <div align="justify">
+
+
 ¡Hi! I’m Roberto Damian Yáñez González  
 
 I'm a Sustainable Development Engineer pivoting into Data Science. I’m passionate about using machine learning, statistical analysis, and data visualization to turn complex datasets into actionable insights. My projects include price prediction, cancellation analysis, user segmentation, A/B testing, predictive maintenance, and classification models. I’m excited to keep learning, building, and collaborating with others who are using data to drive meaningful change.
